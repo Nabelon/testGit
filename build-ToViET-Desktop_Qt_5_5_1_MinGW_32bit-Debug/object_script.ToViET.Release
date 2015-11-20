@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\GUI.o
+./release\comparisondialog.o
+./release\fileexplorer.o
+./release\qrc_resource.o
+./release\qrc_playerbuttons.o
+./release\qrc_filter_artefact_icons.o
+./release\moc_gui.o
+./release\moc_comparisondialog.o
+./release\moc_fileexplorer.o
+);
