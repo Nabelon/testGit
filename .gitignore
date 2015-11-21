@@ -27,6 +27,7 @@
 # qtProjects
 *.pro
 *.user
+*.gitignore
 
 # Executables
 *.exe
